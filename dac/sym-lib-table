@@ -1,0 +1,4 @@
+(sym_lib_table
+  (version 7)
+  (lib (name "ESD321DYAR")(type "KiCad")(uri "${KIPRJMOD}/components/ul_ESD321DYAR/KiCADv6/2024-10-02_15-56-16.kicad_sym")(options "")(descr ""))
+)
