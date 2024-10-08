@@ -5,7 +5,7 @@
 	(layer "F.Cu")
 	(tags "ESD321DYAR ")
 	(property "Reference" "REF**"
-		(at 0 0 0)
+		(at 0 -2 0)
 		(unlocked yes)
 		(layer "F.SilkS")
 		(uuid "45580b24-037d-4792-ae34-dbb72671f578")
