@@ -1,6 +1,6 @@
 # TI-USB-Audio-Devboard
 
-![image](https://github.com/user-attachments/assets/6ee4b71c-d69c-4459-9b42-b9edd57a851d)
+![image](https://github.com/user-attachments/assets/69591e3a-e1f9-49be-9ee7-350d1a486bd9)
 
 
 
