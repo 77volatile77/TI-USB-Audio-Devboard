@@ -4,6 +4,11 @@
 	(generator_version "8.0")
 	(uuid "d7b44dcf-3669-464a-bce0-95946665559d")
 	(paper "A4")
+	(title_block
+		(title "PCM2903C DAC Breadboard Adapter")
+		(date "2024-10-10")
+		(rev "-")
+	)
 	(lib_symbols
 		(symbol "Audio:PCM2902"
 			(exclude_from_sim no)
