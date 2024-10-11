@@ -4722,7 +4722,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "PCM2902"
+		(property "Value" "PCM2906C"
 			(at 161.036 77.47 0)
 			(effects
 				(font
@@ -4740,7 +4740,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "http://www.ti.com/lit/ds/symlink/pcm2902c.pdf"
+		(property "Datasheet" ""
 			(at 168.2399 75.692 0)
 			(effects
 				(font
